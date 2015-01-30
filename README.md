@@ -1,2 +1,2 @@
 # CloudProjects
-Miscellaneous Programs for 15719 Advanced Cloud Computing
+Computing Page Rank using Hadoop (Map-Reduce) from Common Crawl Data
